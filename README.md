@@ -3,7 +3,11 @@ chip8emu
 
 A Chip-8 interpreter I wrote in a weekend for fun.
 
-It has three files:
+You may view a video of it running here:
+https://www.youtube.com/watch?v=Q8zCpPjTbS0
+
+
+The code has three files:
 
 * Main.java
 The entry point. Creates a MainWindow instance, creates an emulator instance, then runs the emulator.
